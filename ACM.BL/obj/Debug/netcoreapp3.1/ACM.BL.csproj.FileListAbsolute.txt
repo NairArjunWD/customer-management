@@ -1,0 +1,9 @@
+/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/ACM.BL/obj/Debug/netcoreapp3.1/ACM.BL.csprojAssemblyReference.cache
+/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/ACM.BL/obj/Debug/netcoreapp3.1/ACM.BL.csproj.CoreCompileInputs.cache
+/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/ACM.BL/obj/Debug/netcoreapp3.1/ACM.BL.AssemblyInfoInputs.cache
+/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/ACM.BL/obj/Debug/netcoreapp3.1/ACM.BL.AssemblyInfo.cs
+/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/ACM.BL/bin/Debug/netcoreapp3.1/ACM.BL.deps.json
+/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/ACM.BL/bin/Debug/netcoreapp3.1/ACM.BL.dll
+/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/ACM.BL/bin/Debug/netcoreapp3.1/ACM.BL.pdb
+/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/ACM.BL/obj/Debug/netcoreapp3.1/ACM.BL.dll
+/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/ACM.BL/obj/Debug/netcoreapp3.1/ACM.BL.pdb
