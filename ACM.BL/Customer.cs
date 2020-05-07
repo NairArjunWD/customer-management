@@ -44,6 +44,15 @@ namespace ACM.BL
             }
         }
 
+        // Saves the current customer.
+        public bool Save()
+        {
+            // Code that saves the defined customer
+
+            return true;
+        }
+
+        // Validates the customer data.
         public bool Validate()
         {
             var isValid = true;
