@@ -44,6 +44,14 @@ namespace ACM.BL
             }
         }
 
+        // Retrieve on customer
+        public Customer Retrieve(int CustomerId)
+        {
+            // Code that retrieves the defined custoemr
+
+            return new Customer();
+        }
+
         // Saves the current customer.
         public bool Save()
         {
