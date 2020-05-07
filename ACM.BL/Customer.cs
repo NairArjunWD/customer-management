@@ -52,6 +52,14 @@ namespace ACM.BL
             return new Customer();
         }
 
+        // Retrieve all customers
+        public List<Customer> Retrieve()
+        {
+            // Code that retrieves all of the customers
+
+            return new List<Customer>();
+        }
+
         // Saves the current customer.
         public bool Save()
         {
