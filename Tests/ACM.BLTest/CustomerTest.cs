@@ -41,5 +41,22 @@ namespace ACM.BLTest
             Assert.Equal(expected, actual);
 
         }
+
+        public void FullNameLastNameEmpty()
+        {
+            // Arrange
+            Customer customer = new Customer
+            {
+                FirstName = "Bilbo"
+            };
+            string expected = "Bilbo";
+
+            // Act
+            string actual = customer.FullName;
+
+            // Assert
+            Assert.Equal(expected, actual);
+
+        }
     }
 }
