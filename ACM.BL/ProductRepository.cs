@@ -17,7 +17,7 @@ namespace ACM.BL
             // Temporary hard-coded values to return a populated product
             if (productID == 2)
             {
-                product.ProductName = "Sunflower";
+                product.ProductName = "Sunflowers";
                 product.ProductDescription = "Assorted Size Set of 4 Bright Yellow Mini Sunflowers";
                 product.CurrentPrice = 15.96M;
             }
