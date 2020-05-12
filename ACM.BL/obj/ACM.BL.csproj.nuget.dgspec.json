@@ -24,6 +24,60 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/Acme.Common/Acme.Common.csproj": {
+                "projectPath": "/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/Acme.Common/Acme.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/Acme.Common/Acme.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/Acme.Common/Acme.Common.csproj",
+        "projectName": "Acme.Common",
+        "projectPath": "/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/Acme.Common/Acme.Common.csproj",
+        "packagesPath": "/Users/arjunnair/.nuget/packages/",
+        "outputPath": "/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/Acme.Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/arjunnair/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
             "projectReferences": {}
           }
         },

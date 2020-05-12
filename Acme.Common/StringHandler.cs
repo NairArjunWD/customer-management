@@ -3,9 +3,10 @@ using System.Collections.Generic;
 
 namespace Acme.Common
 {
-    public class StringHandler
+    public static class StringHandler
     {
-        public string InsertSpaces(string source)
+        // Insert spaces befire each capital letter in a string
+        public static string InsertSpaces(this string source)
         {
             string result = string.Empty;
 
