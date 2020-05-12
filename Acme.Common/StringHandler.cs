@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 
 namespace Acme.Common
@@ -20,6 +20,7 @@ namespace Acme.Common
                     result += letter;
                 }
             }
+            result = result.Trim();
             return result;
         }
     }
