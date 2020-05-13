@@ -57,6 +57,9 @@ namespace ACM.BL
             }
         }
 
+        public string Log() => 
+            $"{CustomerId}: {FullName} Email: {EmailAddress} Status: {EntityState.ToString()}";
+
         public override string ToString() => FullName;
 
         // Validates the customer data.

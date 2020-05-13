@@ -33,7 +33,11 @@ namespace ACM.BL
             }
         }
 
+        public string Log() =>
+            $"{ProductId}: {ProductName} Detail: {ProductDescription} Status: {EntityState.ToString()}";
+            
         public override string ToString() => ProductName;
+
 
         // Validates the product data.
         public override bool Validate()
