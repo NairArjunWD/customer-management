@@ -1,0 +1,9 @@
+/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/Acme.Common/bin/Debug/netcoreapp3.1/Acme.Common.deps.json
+/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/Acme.Common/bin/Debug/netcoreapp3.1/Acme.Common.dll
+/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/Acme.Common/bin/Debug/netcoreapp3.1/Acme.Common.pdb
+/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/Acme.Common/obj/Debug/netcoreapp3.1/Acme.Common.csprojAssemblyReference.cache
+/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/Acme.Common/obj/Debug/netcoreapp3.1/Acme.Common.csproj.CoreCompileInputs.cache
+/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/Acme.Common/obj/Debug/netcoreapp3.1/Acme.Common.AssemblyInfoInputs.cache
+/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/Acme.Common/obj/Debug/netcoreapp3.1/Acme.Common.AssemblyInfo.cs
+/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/Acme.Common/obj/Debug/netcoreapp3.1/Acme.Common.dll
+/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/Acme.Common/obj/Debug/netcoreapp3.1/Acme.Common.pdb
