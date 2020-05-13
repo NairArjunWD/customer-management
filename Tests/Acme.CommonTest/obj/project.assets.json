@@ -902,6 +902,19 @@
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
       },
+      "ACM.BL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Acme.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ACM.BL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ACM.BL.dll": {}
+        }
+      },
       "Acme.Common/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -3505,6 +3518,11 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
+    "ACM.BL/1.0.0": {
+      "type": "project",
+      "path": "../../ACM.BL/ACM.BL.csproj",
+      "msbuildProject": "../../ACM.BL/ACM.BL.csproj"
+    },
     "Acme.Common/1.0.0": {
       "type": "project",
       "path": "../../Acme.Common/Acme.Common.csproj",
@@ -3513,6 +3531,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "ACM.BL >= 1.0.0",
       "Acme.Common >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "coverlet.collector >= 1.2.0",
@@ -3544,6 +3563,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
+            "/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/ACM.BL/ACM.BL.csproj": {
+              "projectPath": "/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/ACM.BL/ACM.BL.csproj"
+            },
             "/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/Acme.Common/Acme.Common.csproj": {
               "projectPath": "/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/Acme.Common/Acme.Common.csproj"
             }

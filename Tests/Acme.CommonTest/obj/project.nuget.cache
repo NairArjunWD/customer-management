@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "oYaQVrNVEUHWvWomkDuxE1XwiByiTXsc72CpF0t0xBQRSTjd+Q0/AXinQaut3axLJQr297+mw88mGOfKP9zYGA==",
+  "dgSpecHash": "SM44BDmHmqlXGQ307pTd1AaLSqAK3yrZrhWNRqLZnUZrrM8t1VYrtaDbPtDXBcckEoaiJV7YgEnMXeyLR0bptQ==",
   "success": true,
   "projectFilePath": "/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/Tests/Acme.CommonTest/Acme.CommonTest.csproj",
   "expectedPackageFiles": [

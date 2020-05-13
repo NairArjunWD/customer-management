@@ -4,7 +4,7 @@ using Acme.Common;
 
 namespace ACM.BL
 {
-    public class Product: EntityBase
+    public class Product: EntityBase, ILoggable
     {
         private string _productName;
 
@@ -33,7 +33,11 @@ namespace ACM.BL
             }
         }
 
+        public string Log() =>
+            $"{ProductId}: {ProductName} Detail: {ProductDescription} Status: {EntityState.ToString()}";
+
         public override string ToString() => ProductName;
+
 
         // Validates the product data.
         public override bool Validate()
