@@ -30,7 +30,7 @@ namespace ACM.BL
             $"{OrderDate.Value.Date} ({OrderId})";
 
         // Validates the order data.
-        public bool Validate()
+        public override bool Validate()
         {
             var isValid = true;
 
@@ -38,5 +38,10 @@ namespace ACM.BL
 
             return isValid;
         }
+
+        // public override bool Validate()
+        // {
+        //     throw new NotImplementedException();
+        // }
     }
 }

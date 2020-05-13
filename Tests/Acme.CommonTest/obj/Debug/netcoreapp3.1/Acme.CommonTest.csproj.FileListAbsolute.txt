@@ -96,3 +96,5 @@
 /Users/arjunnair/Desktop/csharp/course-lessons/customer-management/Tests/Acme.CommonTest/obj/Debug/netcoreapp3.1/Acme.CommonTest.dll
 /Users/arjunnair/Desktop/csharp/course-lessons/customer-management/Tests/Acme.CommonTest/obj/Debug/netcoreapp3.1/Acme.CommonTest.pdb
 /Users/arjunnair/Desktop/csharp/course-lessons/customer-management/Tests/Acme.CommonTest/obj/Debug/netcoreapp3.1/Acme.CommonTest.genruntimeconfig.cache
+/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/Tests/Acme.CommonTest/bin/Debug/netcoreapp3.1/ACM.BL.dll
+/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/Tests/Acme.CommonTest/bin/Debug/netcoreapp3.1/ACM.BL.pdb

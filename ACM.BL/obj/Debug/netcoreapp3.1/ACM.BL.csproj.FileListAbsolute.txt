@@ -7,3 +7,6 @@
 /Users/arjunnair/Desktop/csharp/course-lessons/customer-management/ACM.BL/bin/Debug/netcoreapp3.1/ACM.BL.pdb
 /Users/arjunnair/Desktop/csharp/course-lessons/customer-management/ACM.BL/obj/Debug/netcoreapp3.1/ACM.BL.dll
 /Users/arjunnair/Desktop/csharp/course-lessons/customer-management/ACM.BL/obj/Debug/netcoreapp3.1/ACM.BL.pdb
+/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/ACM.BL/bin/Debug/netcoreapp3.1/Acme.Common.dll
+/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/ACM.BL/bin/Debug/netcoreapp3.1/Acme.Common.pdb
+/Users/arjunnair/Desktop/csharp/course-lessons/customer-management/ACM.BL/obj/Debug/netcoreapp3.1/ACM.BL.csproj.CopyComplete
